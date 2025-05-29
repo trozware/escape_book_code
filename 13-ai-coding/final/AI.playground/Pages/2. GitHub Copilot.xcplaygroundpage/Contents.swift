@@ -6,6 +6,9 @@
 // by Sarah Reichelt
 //
 
+// NOTE: This code will crash the playground if you use Xcode 16.3
+// Please update to Xcode 16.4 or later.
+
 // GitHub Copilot and Gemini 2.0 Flash
 
 // Code block 1

@@ -2,7 +2,7 @@
 
 This repo contains all the downloadable projects and files for use with the 1st edition of the **[Escape from Tutorial Hell](https://troz.net/books/escape)** book by Sarah Reichelt.
 
-You can buy the book from [Gumroad](https://sarahreichelt.gumroad.com/l).
+You can buy the book from [Gumroad](https://sarahreichelt.gumroad.com/l/iqdry).
 
 If you’d like to check out the start of the book including the table of contents and the first chapter, you can read it online at [Escape from Tutorial Hell Sample](https://troz.net/books/escape_sample.html).
 
